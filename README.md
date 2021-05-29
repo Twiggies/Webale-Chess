@@ -1,6 +1,8 @@
-# Assignment Project
+# How to execute
 
-Basically all our stuff here lol
+The classes/objects are mostly compiled, just open up CMD, change the directory to the folder and run the following command:
+
+`java Game.java` 
 
 ## DOCUMENTATIONS NOTE:
 
